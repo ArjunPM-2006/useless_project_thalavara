@@ -6,30 +6,30 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: TiM PiM
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Abiraj T M - NSS College of Engineering , Palakkad
+- Member 2: Arjun P M -NSS College of Engineering , Palakkad
+
 
 ### Project Description
-[2-3 lines about what your project does]
+A drawing simulator like how our life is going. You need to pick one image upto your belief and accept the faith
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Ever felt you can't draw anything and accepted your fate???
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We will make it on the same level
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Languages used] : HTML5, CSS3, JavaScript (ES6, Vanilla — no framework)
+- [Frameworks used] :  None — built as a single-page vanilla JS app (no React/Vue/Angular)
+- [Libraries used] :  None external for logic; Google Fonts (Baloo Chettan 2, Baloo 2, Caveat, JetBrains Mono) loaded via CDN link for typography
+- [Tools used] : HTML5 Canvas API — for the mirror-drawing page (freehand strokes, shape stamping, mirrored coordinate transforms) SVG — inline vector graphics for the bat mascot, cat/apple line-art, and envelope illustration CSS backdrop-filter — for the glassmorphism panels throughout Base64 image embedding — the handwritten note photo is embedded directly in the HTML so the site is a single self-contained file with no external asset dependencies Browser KeyboardEvent API (shiftKey, e.key) — for the reverse-shift-logic captcha Browser dev tools / manual testing — no build step, bundler, or package manager required; just open
 
 For Hardware:
 - [List main components]
@@ -38,61 +38,47 @@ For Hardware:
 
 ### Implementation
 For Software:
-# Installation
-[commands]
+No installation needed . Just hit and run
 
 # Run
-[commands]
+Link : https://thalavara.vercel.app/
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](Home Page) Indicates home page
+*Home page*
+<img width="1919" height="919" alt="homepage" src="https://github.com/user-attachments/assets/725761ba-0127-4f60-9c4a-66dfe6648b44" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](Shift captcha)
+*Features Shift Captcha*
+<img width="1908" height="915" alt="shiftcaptcha" src="https://github.com/user-attachments/assets/f362dbbe-3c5f-4828-8cdd-6db4ae24586f" />
+
+
+![Screenshot3](drawing space)
+*Drawing space which features frame*
+<img width="1915" height="916" alt="drawingspace" src="https://github.com/user-attachments/assets/35cb1703-1207-4a5e-bfd9-88a037086a77" />
+
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+Workflow of Thalavara
 
-For Hardware:
+<img width="1360" height="896" alt="Screenshot 2026-09-13 003803" src="https://github.com/user-attachments/assets/4f2991c1-b831-49db-a919-0f61391e8de8" />
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1oBAYGXRdk1-4aBLK9nYjKzwJDF6IBYZs/view?usp=sharing
 
 # Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/file/d/1R3O0pyzdA9DdwfyHu9E_8ymuz-Zt3GoO/view?usp=sharing
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
+Abiraj T M: IDEA,UX,frontend
+Arjun P M:Pitching,Backend,UI
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
