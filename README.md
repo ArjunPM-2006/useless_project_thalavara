@@ -77,9 +77,8 @@ https://drive.google.com/file/d/1oBAYGXRdk1-4aBLK9nYjKzwJDF6IBYZs/view?usp=shari
 https://drive.google.com/file/d/1R3O0pyzdA9DdwfyHu9E_8ymuz-Zt3GoO/view?usp=sharing
 
 ## Team Contributions
-
--Abiraj T M: IDEA,UX,frontend
--Arjun P M:Pitching,Backend,UI
+* Abiraj T M: IDEA,UX,frontend
+* Arjun P M:Pitching,Backend,UI
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
